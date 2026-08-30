@@ -1,0 +1,14 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+models/
+recordings/
+*.wav
+*.aiff
+FEATURES.md
+IDEAS.md
+OPINIONS.md
